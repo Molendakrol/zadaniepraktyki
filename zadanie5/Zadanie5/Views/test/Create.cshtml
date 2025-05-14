@@ -1,0 +1,55 @@
+﻿@model List<Zadanie5igopaw.Models.KlienciViewModel>
+
+@{
+	ViewData["Title"] = "Dodaj Klienta";
+	var errormsg = TempData["errorMassage"]?.ToString();
+
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr/>
+@if (!string.IsNullOrWhiteSpace(@errormsg))
+{
+<div class="alert alert-danger">
+	<strong>Błąd! </strong>@errormsg
+</div>
+<button type="button" class="btn-close float-end" data-bs-dismiss="alert">Ok</button>
+}
+<from action="Create" method="post">
+	@Html.AntiForgeryToken()
+	
+	<div class="mb-3"> 
+		<label class="form-label"> Imie: </label>
+		<input class="form-control" type="text" value="" />
+		<span class="text-danger"></span>
+	</div>
+	
+	 <div class="mb-3">
+	 	<label class="form-label"> Nazwisko: </label>
+	 	<input class="form-control" type="text" name="name" value="" />
+	 </div>
+
+
+	 <div class="mb-3">
+	 	<label class="form-label"> Rok urodzenia: </label>
+	 	<input class="form-control" type="date" name="name" value="" />
+	 </div>
+
+
+	 <div class="mb-3">
+	 	<label class="form-label"> PESEL: </label>
+	 	<input class="form-control" type="number" name="name" value="" />
+	 </div>
+
+
+	 <div class="mb-3">
+	 	<label class="form-label"> Płeć: </label>
+	 	<input class="form-control" type="text" name="name" value="" />
+	 </div>
+	 
+	<div class="d-grid">
+		<button type="submit" class="btn btn-primary">Potwierdź</button>
+
+	</div>
+
+</from>

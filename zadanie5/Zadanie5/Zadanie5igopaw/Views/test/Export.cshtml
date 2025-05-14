@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Eksport klientów";
+    var error = TempData["errorMessage"] as string;
+}
+
+<h3>@ViewData["Title"]</h3>
+
+@if (!string.IsNullOrEmpty(error))
+{
+    <div class="alert alert-danger">@error</div>
+}
+
+@using (Html.BeginForm("Export", "test", FormMethod.Post))
+{
+    <div class="mb-3">
+        <label class="form-label">Wybierz format</label>
+        <select name="format" class="form-select" required>
+            <option value="">-- wybierz --</option>
+            <option value="csv">CSV</option>
+            <option value="xlsx">XLSX</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Pobierz</button>
+}

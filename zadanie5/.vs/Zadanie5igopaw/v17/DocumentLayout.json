@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\test\\Zadanie5igopaw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\zadanie5igopaw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\zadanie5igopaw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\klienci.data\\obj\\release\\net8.0\\klienci.data.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\klienci.data\\obj\\release\\net8.0\\klienci.data.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|c:\\test\\zadanie5igopaw\\klienci.data\\klienci.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|solutionrelative:klienci.data\\klienci.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\zadanie5igopaw\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\zadanie5igopaw\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|c:\\test\\zadanie5igopaw\\klienci.data\\kliencidatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|solutionrelative:klienci.data\\kliencidatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\models\\klienciviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\models\\klienciviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|c:\\test\\zadanie5igopaw\\klienci.data\\klienci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|solutionrelative:klienci.data\\klienci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|c:\\test\\zadanie5igopaw\\zadanie5igopaw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\Zadanie5igopaw.csproj|solutionrelative:zadanie5igopaw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Klienci.Data.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Klienci.Data\\obj\\Release\\net8.0\\Klienci.Data.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Klienci.Data\\obj\\Release\\net8.0\\Klienci.Data.AssemblyInfo.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Klienci.Data\\obj\\Release\\net8.0\\Klienci.Data.AssemblyInfo.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Klienci.Data\\obj\\Release\\net8.0\\Klienci.Data.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:34:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:34:24.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Zadanie5igopaw\\Controllers\\test.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Zadanie5igopaw\\Controllers\\test.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Zadanie5igopaw\\Controllers\\test.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Zadanie5igopaw\\Controllers\\test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:30:55.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Program.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Program.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:14:36.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\test\\Create.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\test\\Create.cshtml",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\test\\Create.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\test\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T10:29:36.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Controllers\\test.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Controllers\\test.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Controllers\\test.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Controllers\\test.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:25:45.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\test\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\test\\Index.cshtml",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\test\\Index.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\test\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T08:07:08.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Klienci.Data.csproj",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Klienci.Data\\Klienci.Data.csproj",
+              "RelativeDocumentMoniker": "Klienci.Data\\Klienci.Data.csproj",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Klienci.Data\\Klienci.Data.csproj",
+              "RelativeToolTip": "Klienci.Data\\Klienci.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T10:00:51.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T10:51:11.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KlienciDataContext.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Klienci.Data\\KlienciDataContext.cs",
+              "RelativeDocumentMoniker": "Klienci.Data\\KlienciDataContext.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Klienci.Data\\KlienciDataContext.cs",
+              "RelativeToolTip": "Klienci.Data\\KlienciDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:14:59.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:37:55.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KlienciViewModel.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Models\\KlienciViewModel.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Models\\KlienciViewModel.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Models\\KlienciViewModel.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Models\\KlienciViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:03:49.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T12:46:05.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:57:07.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T12:46:05.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Klienci.cs",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Klienci.Data\\Klienci.cs",
+              "RelativeDocumentMoniker": "Klienci.Data\\Klienci.cs",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Klienci.Data\\Klienci.cs",
+              "RelativeToolTip": "Klienci.Data\\Klienci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:04:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T12:01:01.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250506070444_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\User\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs",
+              "RelativeToolTip": "..\\..\\Users\\User\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:04:44.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\appsettings.json",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\appsettings.json",
+              "ToolTip": "C:\\test\\Zadanie5igopaw\\Zadanie5igopaw\\appsettings.json",
+              "RelativeToolTip": "Zadanie5igopaw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T12:40:24.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

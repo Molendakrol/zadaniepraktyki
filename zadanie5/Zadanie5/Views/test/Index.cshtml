@@ -1,0 +1,85 @@
+﻿@model List<Zadanie5igopaw.Models.KlienciViewModel>
+
+@{
+	ViewData["Title"] = "Klienci";
+
+	var errormsg = TempData["errorMassage"]?.ToString();
+	var successmsg = TempData["success"]?.ToString();
+}
+<h3>@ViewData["Title"]</h3>
+<hr />
+@if (!string.IsNullOrWhiteSpace(@successmsg))
+{
+	<div class="alert alert-success">
+		<strong>Sukces! </strong> @successmsg
+	</div>
+	<button type="button" class="btn-close float-end" data-bs-dismiss="alert">Ok</button>
+}
+else if (!string.IsNullOrWhiteSpace(@errormsg))
+{
+	<div class="alert alert-danger">
+	<strong>Błąd! </strong>@errormsg
+	</div>
+	<button type="button" class="btn-close float-end" data-bs-dismiss="alert">Ok</button>
+}
+<from>
+	<button type="submit" asp-action="Create" asp-controller="test" class="btn btn-primary mb-3">Utwórz klienta</button>
+	<table class="table table-responsive table-hover table-bordered">
+		<thead>
+			<tr class="table-active">
+				<th>Id</th>
+				<th>Imie</th>
+				<th>Nazwisko</th>
+				<th>Rok urodzenia</th>
+				<th>PESEL</th>
+				<th>Płeć</th>			
+			</tr>
+		</thead>
+		<tbody>
+
+			@if (Model != null && Model.Any())
+			{
+				@foreach (var klient in Model)
+				{
+					<tr>
+						<td>@klient.Id</td>
+						<td>@klient.Name</td>
+						<td>@klient.Surname</td>
+
+						<td>@klient.BirthYear</td>
+
+						<td>@klient.PESEL</td>
+
+						<td>@klient.Plec</td>
+						 <td>
+							 <div class="btn-group btn-group-sm">
+								 <a asp-controller="test" asp-action="Edit" asp-route-id="@klient.Id" class="btn btn-primary">Edytuj</a>
+								 <a asp-controller="test" asp-action="Delete" asp-route-id="@klient.Id" class="btn btn-danger">Usuń</a>
+							 </div>
+						 </td>
+					</tr>
+				}
+
+			}
+			else
+			{
+				<tr>
+					<td colspan="6">
+						<div>
+							brak klientów do wyświetlenia :(
+						</div>
+					</td>
+				</tr>
+			}
+
+
+
+
+
+		</tbody>
+	</table>
+
+
+
+
+</from>

@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\klienci.data\\migrations\\20250514082951_tabelajacob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|solutionrelative:klienci.data\\migrations\\20250514082951_tabelajacob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\klienci.data\\migrations\\kliencidatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|solutionrelative:klienci.data\\migrations\\kliencidatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\klienci.data\\klienci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|solutionrelative:klienci.data\\klienci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\klienci.data\\kliencidatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|solutionrelative:klienci.data\\kliencidatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\models\\klienciviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\models\\klienciviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\klienci.data\\klienci.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E0035DD-C9E6-4313-B24F-9B28FB603EA7}|Klienci.Data\\Klienci.Data.csproj|solutionrelative:klienci.data\\klienci.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\zadanie5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\zadanie5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\test\\import.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\test\\import.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\test\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\test\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\views\\test\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\views\\test\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|c:\\users\\user\\documents\\zad\\zadanie5\\zadanie5\\zadanie5igopaw\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2EF0969-11B3-4FEF-9EC0-5F275E0B48E8}|Zadanie5igopaw\\zadanie5.csproj|solutionrelative:zadanie5igopaw\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Controllers\\test.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Controllers\\test.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Controllers\\test.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Controllers\\test.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAADwv1EBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:25:45.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KlienciDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\KlienciDataContext.cs",
+              "RelativeDocumentMoniker": "Klienci.Data\\KlienciDataContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\KlienciDataContext.cs",
+              "RelativeToolTip": "Klienci.Data\\KlienciDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:14:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Klienci.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\Klienci.cs",
+              "RelativeDocumentMoniker": "Klienci.Data\\Klienci.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\Klienci.cs",
+              "RelativeToolTip": "Klienci.Data\\Klienci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:04:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250514082951_tabelajacob.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\Migrations\\20250514082951_tabelajacob.cs",
+              "RelativeDocumentMoniker": "Klienci.Data\\Migrations\\20250514082951_tabelajacob.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\Migrations\\20250514082951_tabelajacob.cs",
+              "RelativeToolTip": "Klienci.Data\\Migrations\\20250514082951_tabelajacob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:29:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KlienciDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\Migrations\\KlienciDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Klienci.Data\\Migrations\\KlienciDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\Migrations\\KlienciDataContextModelSnapshot.cs",
+              "RelativeToolTip": "Klienci.Data\\Migrations\\KlienciDataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:30:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:37:55.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:57:07.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KlienciViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Models\\KlienciViewModel.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Models\\KlienciViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Models\\KlienciViewModel.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Models\\KlienciViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:03:49.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T12:01:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T08:41:26.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T10:51:11.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T08:41:21.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T07:18:12.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T12:46:05.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\appsettings.json",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\appsettings.json",
+              "RelativeToolTip": "Zadanie5igopaw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T12:40:24.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\appsettings.Development.json",
+              "RelativeToolTip": "Zadanie5igopaw\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T07:17:54.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Program.cs",
+              "RelativeToolTip": "Zadanie5igopaw\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:14:36.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Klienci.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\Klienci.Data.csproj",
+              "RelativeDocumentMoniker": "Klienci.Data\\Klienci.Data.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Klienci.Data\\Klienci.Data.csproj",
+              "RelativeToolTip": "Klienci.Data\\Klienci.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T10:00:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T12:46:05.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Create.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\test\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Create.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\test\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T10:29:36.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Index.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\test\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T08:07:08.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Import.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Import.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\test\\Import.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Import.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\test\\Import.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T10:17:48.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Export.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Export.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\test\\Export.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Export.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\test\\Export.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T10:49:05.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\test\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Edit.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\test\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T07:14:11.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\Views\\test\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\Views\\test\\Delete.cshtml",
+              "RelativeToolTip": "Zadanie5igopaw\\Views\\test\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T08:35:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:34:56.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "zadanie5.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\zadanie5.csproj",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\zadanie5.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\zadanie5.csproj",
+              "RelativeToolTip": "Zadanie5igopaw\\zadanie5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T07:18:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T10:40:52.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\wwwroot\\js\\JavaScript.js",
+              "RelativeDocumentMoniker": "Zadanie5igopaw\\wwwroot\\js\\JavaScript.js",
+              "ToolTip": "C:\\Users\\User\\Documents\\zad\\zadanie5\\Zadanie5\\Zadanie5igopaw\\wwwroot\\js\\JavaScript.js",
+              "RelativeToolTip": "Zadanie5igopaw\\wwwroot\\js\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-07T11:32:20.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250506070444_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Zadanie5igopaw\\Klienci.Data\\Migrations\\20250506070444_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:04:44.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

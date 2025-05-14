@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Import klientów";
+    var err = TempData["errorMessage"] as string;
+    var ok = TempData["successMessage"] as string;
+}
+
+<h3>@ViewData["Title"]</h3>
+
+@if (!string.IsNullOrEmpty(err))
+{
+    <div class="alert alert-danger">@err</div>
+}
+@if (!string.IsNullOrEmpty(ok))
+{
+    <div class="alert alert-success">@ok</div>
+}
+
+<form asp-action="Import" asp-controller="test" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label class="form-label">Plik CSV lub XLSX:</label>
+        <input type="file" name="file" class="form-control" accept=".csv,.xlsx" />
+    </div>
+    <button type="submit" class="btn btn-primary">Importuj</button>
+</form>

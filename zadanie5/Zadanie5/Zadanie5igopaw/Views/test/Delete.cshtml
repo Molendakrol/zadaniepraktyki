@@ -1,0 +1,51 @@
+﻿@model Zadanie5.Models.KlienciViewModel
+
+@{
+	ViewData["Title"] = "Usuń klienta";
+	var errorMessage = TempData["errorMessage"]?.ToString();
+}
+<h3>@ViewData["Title"]</h3>
+<hr />
+@if (!string.IsNullOrWhiteSpace(@errorMessage))
+{
+	<div class="alert alert-danger">
+		<strong>Błąd! </strong>@errorMessage
+		<button type="button" class="btn-close float-end" data-bs-dismiss="alert"></button>
+	</div>
+}
+<form action="Delete" method="post">
+	<div class="mb-3">
+		<label class="form-label">Id</label>
+		<input type="text" class="form-control" asp-for="Id" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Imie</label>
+		<input type="text" class="form-control" asp-for="Name" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Nazwisko</label>
+		<input type="text" class="form-control" asp-for="Surname" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Rok urodzenia</label>
+		<input type="text" class="form-control" asp-for="BirthYear" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">PESEL</label>
+		<input type="text" class="form-control" asp-for="PESEL" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Pleć</label>
+		<input type="text" class="form-control" asp-for="Plec" readonly />
+	</div>
+	<div class="d-grid">
+		<button type="submit" class="btn btn-danger" onclick="return function('Napewno usunąć użytkownika?: @Model.Name')">Usuń</button>
+	</div>
+
+</form>
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+
+}

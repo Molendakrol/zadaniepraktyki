@@ -1,0 +1,89 @@
+﻿@model List<Zadanie5.Models.KlienciViewModel>
+
+@{
+	ViewData["Title"] = "Klienci";
+
+	var errormsg = TempData["errorMassage"]?.ToString();
+	var successmsg = TempData["successMessage"]?.ToString();
+}
+<h3>@ViewData["Title"]</h3>
+<hr />
+@if (!string.IsNullOrWhiteSpace(@successmsg))
+{
+	<div class="alert alert-success">
+		<strong>Sukces! </strong> @successmsg
+		<button type="button" class="btn-close float-end" data-bs-dismiss="alert"></button>
+	</div>
+	
+}
+else if (!string.IsNullOrWhiteSpace(@errormsg))
+{
+	<div class="alert alert-danger">
+		<strong>Błąd! </strong >@errormsg
+		<button type="button" class="btn-close float-end" data-bs-dismiss="alert"></button>
+	</div>
+
+}
+<form>
+	<a asp-action="Create" asp-controller="test" class="btn btn-primary mb-3">Utwórz klienta</a>
+	<table class="table table-responsive table-hover table-bordered">
+		<thead>
+			<tr class="table-active">
+				<th class="text-center">Id</th>
+				<th class="text-center">Imie</th>
+				<th class="text-center">Nazwisko</th>
+				<th class="text-center">Rok urodzenia</th>
+				<th class="text-center">PESEL</th>
+				<th class="text-center">Płeć</th>
+				<th class="text-center" >Akcja</th>
+
+			</tr>
+		</thead>
+		<tbody>
+
+			@if (Model != null && Model.Any())
+			{
+				@foreach (var klient in Model)
+				{
+					<tr>
+						<td>@klient.Id</td>
+						<td>@klient.Name</td>
+						<td>@klient.Surname</td>
+
+						<td>@klient.BirthYear</td>
+
+						<td>@klient.PESEL</td>
+
+						<td>@klient.Plec</td>
+						<td class="text-center">
+							 <div class="btn-group btn-group-sm">
+								 <a asp-controller="test" asp-action="Edit" asp-route-id="@klient.Id" class="btn btn-primary">Edytuj</a>
+								 <a asp-controller="test" asp-action="Delete" asp-route-id="@klient.Id" class="btn btn-danger">Usuń</a>
+							 </div>
+						 </td>
+					</tr>
+				}
+
+			}
+			else
+			{
+				<tr>
+					<td colspan="6">
+						<div>
+							brak klientów do wyświetlenia :(
+						</div>
+					</td>
+				</tr>
+			}
+
+
+
+
+
+		</tbody>
+	</table>
+
+
+
+
+</form>

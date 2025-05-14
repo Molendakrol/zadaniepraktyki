@@ -1,0 +1,14 @@
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\bin\Debug\net8.0\zadanie2.exe
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\bin\Debug\net8.0\zadanie2.deps.json
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\bin\Debug\net8.0\zadanie2.runtimeconfig.json
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\bin\Debug\net8.0\zadanie2.dll
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\bin\Debug\net8.0\zadanie2.pdb
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\zadanie2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\zadanie2.AssemblyInfo.cs
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\zadanie2.dll
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\refint\zadanie2.dll
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\zadanie2.pdb
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\zadanie2.genruntimeconfig.cache
+C:\Users\User\Documents\zad\zadanie2\zadanie2\zadanie2\obj\Debug\net8.0\ref\zadanie2.dll
